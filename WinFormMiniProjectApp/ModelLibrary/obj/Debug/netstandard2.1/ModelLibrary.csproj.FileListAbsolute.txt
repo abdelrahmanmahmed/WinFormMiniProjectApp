@@ -1,0 +1,9 @@
+C:\Users\Windows10\source\repos\WinFormMiniProjectApp\ModelLibrary\bin\Debug\netstandard2.1\ModelLibrary.deps.json
+C:\Users\Windows10\source\repos\WinFormMiniProjectApp\ModelLibrary\bin\Debug\netstandard2.1\ModelLibrary.dll
+C:\Users\Windows10\source\repos\WinFormMiniProjectApp\ModelLibrary\bin\Debug\netstandard2.1\ModelLibrary.pdb
+C:\Users\Windows10\source\repos\WinFormMiniProjectApp\ModelLibrary\obj\Debug\netstandard2.1\ModelLibrary.csproj.AssemblyReference.cache
+C:\Users\Windows10\source\repos\WinFormMiniProjectApp\ModelLibrary\obj\Debug\netstandard2.1\ModelLibrary.AssemblyInfoInputs.cache
+C:\Users\Windows10\source\repos\WinFormMiniProjectApp\ModelLibrary\obj\Debug\netstandard2.1\ModelLibrary.AssemblyInfo.cs
+C:\Users\Windows10\source\repos\WinFormMiniProjectApp\ModelLibrary\obj\Debug\netstandard2.1\ModelLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\source\repos\WinFormMiniProjectApp\ModelLibrary\obj\Debug\netstandard2.1\ModelLibrary.dll
+C:\Users\Windows10\source\repos\WinFormMiniProjectApp\ModelLibrary\obj\Debug\netstandard2.1\ModelLibrary.pdb

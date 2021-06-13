@@ -1,0 +1,11 @@
+C:\Users\Windows10\source\repos\WinFormMiniProjectApp\WinFormMiniProject\obj\Debug\WinFormMiniProject.csproj.AssemblyReference.cache
+C:\Users\Windows10\source\repos\WinFormMiniProjectApp\WinFormMiniProject\obj\Debug\WinFormMiniProject.PersonEntry.resources
+C:\Users\Windows10\source\repos\WinFormMiniProjectApp\WinFormMiniProject\obj\Debug\WinFormMiniProject.Properties.Resources.resources
+C:\Users\Windows10\source\repos\WinFormMiniProjectApp\WinFormMiniProject\obj\Debug\WinFormMiniProject.csproj.GenerateResource.cache
+C:\Users\Windows10\source\repos\WinFormMiniProjectApp\WinFormMiniProject\obj\Debug\WinFormMiniProject.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\source\repos\WinFormMiniProjectApp\WinFormMiniProject\bin\Debug\WinFormMiniProject.exe.config
+C:\Users\Windows10\source\repos\WinFormMiniProjectApp\WinFormMiniProject\bin\Debug\WinFormMiniProject.exe
+C:\Users\Windows10\source\repos\WinFormMiniProjectApp\WinFormMiniProject\bin\Debug\WinFormMiniProject.pdb
+C:\Users\Windows10\source\repos\WinFormMiniProjectApp\WinFormMiniProject\obj\Debug\WinFormMiniProject.exe
+C:\Users\Windows10\source\repos\WinFormMiniProjectApp\WinFormMiniProject\obj\Debug\WinFormMiniProject.pdb
+C:\Users\Windows10\source\repos\WinFormMiniProjectApp\WinFormMiniProject\obj\Debug\WinFormMiniProject.AddressEntry.resources
